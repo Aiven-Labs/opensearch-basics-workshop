@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-nodejs-dive-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search.js",
+  "devDependencies": {
+    "prettier": "3.0.3"
+  },
+  "dependencies": {
+    "@opensearch-project/opensearch": "^2.4.0",
+    "dotenv": "^16.3.1",
+    "make-runnable": "^1.4.1"
+  }
+}
