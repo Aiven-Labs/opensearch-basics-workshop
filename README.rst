@@ -51,7 +51,6 @@ Wait till the data is indexed. Can take 15-20 seconds.
 
     node aggregate metric avg rating
 
-
 Structure of this repository
 ----------------------------
 
