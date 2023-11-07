@@ -54,4 +54,7 @@ module.exports.delete = (index) => {
   );
 };
 
-require('make-runnable');
+require('make-runnable/custom')({
+  printOutputFrame: false,
+  printOutput: false
+})
