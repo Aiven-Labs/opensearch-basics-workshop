@@ -1,3 +1,6 @@
+.. image:: https://gitpod.io/button/open-in-gitpod.svg
+    :target: https://gitpod.io/#https://github.com/Aiven-Labs/opensearch-basics-workshop
+
 Hands-on material for session on how to start working with OpenSearch® and NodeJS
 ==================================================================================
 
