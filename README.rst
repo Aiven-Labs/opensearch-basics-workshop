@@ -4,7 +4,7 @@ Hands-on material for session on how to start working with OpenSearch® and Node
 This repository is a part of `an in-person hands-on workshop <https://aiven.io/workshop/opensearch-with-javascript>`_. 
 
 Additional written guidance can be also found in articles `how to write search queries with OpenSearch and NodeJS <https://aiven.io/developer/start-using-opensearch-with-nodejs>`_ and `how to use aggregations with OpenSearch and NodeJS <https://developer.aiven.io/docs/products/opensearch/howto/opensearch-aggregations-and-nodejs.html>`_.
-You can also find interesting `Exploring Mastodon data with Apache Kafka® and OpenSearch® <https://aiven.io/developer/mastodon-kafka-opensearch>`
+You can also find interesting `Exploring Mastodon data with Apache Kafka® and OpenSearch® <https://aiven.io/developer/mastodon-kafka-opensearch>`_.
 
 
 Prerequisites
