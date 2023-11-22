@@ -1,7 +1,7 @@
 Hands-on material for session on how to start working with OpenSearch® and NodeJS
 ==================================================================================
 
-This repository is a part of `an in-person hands-on workshop <https://aiven.io/workshop/opensearch-with-javascript>`. 
+This repository is a part of `an in-person hands-on workshop <https://aiven.io/workshop/opensearch-with-javascript>`_. 
 
 Additional written guidance can be also found in articles `how to write search queries with OpenSearch and NodeJS <https://aiven.io/developer/start-using-opensearch-with-nodejs>`_ and `how to use aggregations with OpenSearch and NodeJS <https://developer.aiven.io/docs/products/opensearch/howto/opensearch-aggregations-and-nodejs.html>`_.
 You can also find interesting `Exploring Mastodon data with Apache Kafka® and OpenSearch® <https://aiven.io/developer/mastodon-kafka-opensearch>`
@@ -12,7 +12,7 @@ Prerequisites
 
 To run examples from this repository you'll need:
 
-1. An OpenSearch cluster. Use this `link to get extra credits <https://go.aiven.io/signup-opensearch-js>`.
+1. An OpenSearch cluster. Use this `link to get extra credits <https://go.aiven.io/signup-opensearch-js>`_.
 2. NodeJS, npm and git. If you don’t have NodeJS or npm installed, follow `these instructions <https://docs.npmjs.com/downloading-and-installing-node-js-and-npm>`_.
 3. Curiosity and patience 😉
 
