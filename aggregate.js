@@ -20,7 +20,7 @@ module.exports.metric = (metric, field) => {
          match: {
              [matchField]: matchValue
          }
-    */ },
+     },*/
   };
   client.search(
     {
